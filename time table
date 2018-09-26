@@ -1,0 +1,136 @@
+<html>
+<body>
+<table  align="center"border="1">
+<tr>
+<th>day/period</th>
+<th>1</th>
+<th>2</th>
+<th>3</th>
+<th>4</th>
+<th>5</th>
+<th>6</th>
+<th>7</th>
+</tr>
+<tr>
+<td>tueday</td>
+<td>IT6501</td>
+<td bgcolor="blue">lab</td>
+<td bgcolor="blue">lab</td>
+<td bgcolor="blue">lab</td>
+<td>CS6551</td>
+<td>IT6502</td>
+<td>IT6503</td>
+</tr>
+<tr>
+<td>wednesday</td>
+<td>IT6502</td>
+<td>CS6502</td>
+<td>EC6801</td>
+<td>CS6502</td>
+<td bgcolor="blue">lab</td>
+<td bgcolor="blue">lab</td>
+<td bgcolor="blue">lab</td>
+</tr>
+<tr>
+<td>thursday</td>
+<td>EC6801</td>
+<td>LIB</td>
+<td>CS6551</td>
+<td>IT6503</td>
+<td>IT501</td>
+<td bgcolor="pink">vap</td>
+<td bgcolor="pink">vap</td>
+</tr>
+<tr>
+<td>friday</td>
+<td>CS6502</td>
+<td>CS6551</td>
+<td>EC6801</td>
+<td>IT6501</td>
+<td bgcolor="blue">lab</td>
+<td bgcolor="blue">lab</td>
+<td bgcolor="blue">lab</td>
+</tr>
+<tr>
+<td>saturday</td>
+<td>IT6503</td>
+<td>IT6503</td>
+<td>IT6501</td>
+<td>CS6551</td>
+<td>IT6502</td>
+<td>IT6502(t)</td>
+<td>EC6801</td>
+</tr>
+<table align="center" border="2"> 
+<br><br>
+
+<th>S.NO</th>
+<th>SUB CODE</th>
+<th>SUBJECT NAME</th>
+<th>FACULTY NAME</th>
+
+<tr>
+<td>1</td>
+<td bgcolor="red">CS6551</td>
+<td>Computer Networks</td>
+<td>Prof.S.Pramila</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td bgcolor="red">IT6501</td>
+<td>Graphics And Multimedia</td>
+<td>Ms.M.Leela</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td bgcolor="red">CS6502</td>
+<td>Object Oriented Analysis And Design</td>
+<td>Ms.R.Abirami</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td bgcolor="red">IT6502</td>
+<td>Digital Signal Processing</td>
+<td>Ms.Vanathi</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td bgcolor="red">IT6503</td>
+<td>Web Programming</td>
+<td>Mr.M.Ashok</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td bgcolor="red">EC6801</td>
+<td>Wireless Communication</td>
+<td>Ms.Arunajayasree</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td bgcolor="red">IT6511</td>
+<td>Networks Lab</td>
+<td>Prof.S.Pramila</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td bgcolor="red">IT6512</td>
+<td>Web Programming Lab</td>
+<td>Mr.M.Ashok</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td bgcolor="red">IT6513</td>
+<td>Case Tools Laboratory</td>
+<td>Ms.R.Abirami/Ms.Rebekah</td>
+</tr>
+</table>
+</body>
+</html>
