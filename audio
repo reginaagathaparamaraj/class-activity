@@ -1,0 +1,23 @@
+<html>
+<head>
+<audio id="myAudio">
+<source src="Unnai.ogg" type="audio/ogg">
+<source src="Unnai.mp3" type="audio/mpeg">
+</audio>
+<script>
+var x =document.getElementById("myAudio");
+function playmusic() {
+x.play();
+}
+function pausemusic() {
+x.pause();
+}
+</script>
+</head>
+<body >
+<br></br>
+<div align="center"><input type="button" onclick="playmusic()" value="PLAY MUSIC"></div> </input>
+<br></br>
+<div align="center"><input type="button" onclick="pausemusic()" value="PAUSE MUSIC"></div> </input>
+</body>
+</html>
