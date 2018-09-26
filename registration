@@ -1,0 +1,20 @@
+<html>
+<body bgcolor=red>
+<center>
+<h1>REGISTRATION FORM</h1>
+name=<input type="text" name="agatharegina"><br><br>
+rollno=<input type="number" name="001"><br><br>
+DOB=<input type="date" name="date"><br><br>
+email=<input type="text" name="email"><br><br>
+password=<input type="password" name="password"><br><br>
+gender=
+<input type="radio" name="gender" value="female">female</input>
+<input type="radio" name="gender" value="male">male</input>
+<input type="radio" name="gender"name="gender" value="others">others</input><br><br>
+<a href="C:\Users\REGI\Desktop\meena.html" download>
+<input type="submit">
+</a>
+
+</center>
+</body>
+</html>
