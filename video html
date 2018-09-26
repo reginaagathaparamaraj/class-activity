@@ -1,0 +1,22 @@
+<html>
+<head>
+<video id="Video">
+<source src="cutiesss.MP4" type="video/MP4">
+</video>
+<script>
+var x =document.getElementById("video");
+function playvideo() {
+x.play();
+}
+function pausevideo() {
+x.pause();
+}
+</script>
+</head>
+<body >
+<br></br>
+<div align="center"><input type="button" onclick="playvideo()" value="PLAY VIDEO"></div> </input>
+<br></br>
+<div align="center"><input type="button" onclick="pausevideo()" value="PAUSE VIDEO"></div> </input>
+</body>
+</html>
