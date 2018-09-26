@@ -1,0 +1,36 @@
+FORM1:
+<html>
+<body>
+username:<input type="text" name="username"><br>
+password:<input type="password" password="password"><br>
+<form action="form2.html">
+<button type="submit">OK
+</button>
+</form>
+</body>
+</html>
+FORM2:
+<html>
+<head>
+<h1> welcome to online test</h1></head>
+<body>
+<form action="">
+<p> 1.2+3 = 5</p>
+<input type="radio" name="1" value="true" >true</input><br>
+<input type ="radio" name="1" value="true">false</input><br>
+<p>2.1+2 = 4</p>
+<input type="radio" name="2" value="true" >true</input><br>
+<input type="radio" name="2" value="true" >false</input><br>
+<p> 3.6/3 = 5</p>
+<input type="radio" name="3" value="true" >true</input><br>
+<input type="radio" name="3" value="true" >false</input><br>
+<p> 4.3-3 = 1</p>
+<input type="radio" name="4" value="true" >true</input><br>
+<input type="radio" name="4" value="true" >false</input><br>
+<p> 5.2*3 = 6</p>
+<input type="radio" name="5" value="true" >true</input><br>
+<input type="radio" name="5" value="true" >false</input><br><br>
+<br>
+<button type="button" onclick="window.open='mark.html'">SUBMIT</button>
+</body>
+</html>
